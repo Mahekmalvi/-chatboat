@@ -1,5 +1,7 @@
 # Muskbliss Fragrance Chatbot
 
+💬 MuskBliss Fragrance Assistant – your personal scent expert from muskbliss.com. Discover perfumes that match your age, gender, mood, notes, and occasion. Explore recommendations, learn fragrance tips, and instantly add your favorites to cart — all inside the chat. Experience your pure bliss.
+
 A web-based chatbot to recommend Muskbliss fragrances based on gender, age, occasion, and favorite notes.
 
 ## Features
